@@ -7,9 +7,6 @@ import re
 import threading
 import datetime
 
-from dotenv import load_dotenv
-load_dotenv()
-
 from config import user, passw, filet
 
 # https://m2m.cr.usgs.gov/api/docs/example/download_landsat_c2-py - example script
