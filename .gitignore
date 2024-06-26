@@ -1,5 +1,7 @@
 snimky_*
 
+config.py
+
 *.tar
 *.jpg
 *.pyc
